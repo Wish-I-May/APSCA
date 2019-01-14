@@ -26,7 +26,7 @@ public class C6_1 {
      * checking if the password is valid 8 chars 2 digits only letters and
      * digits
      *
-     * @param password
+     * @param password user inputed
      * @return true if the password is valid
      */
     public static boolean isValid(String password) {
